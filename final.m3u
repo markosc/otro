@@ -2,21 +2,19 @@
 #EXTINF:0,Latina 2
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
 #EXTINF:0,Canal 4
-http://83.149.126.139:8088/live/americ0922/playlist.m3u8?id=89927&pk=6e62b1a064abe311e009ba01e7d813890baf0cc41b2f0d8af5a9d0954f46366e
+http://85.17.20.70:8088/stream/fulltv100/playlist.m3u8?id=28467&wowzasessionid=246017594&pk=228d7081917c4e3b680d98aef46de642ac00ef36742506877d64937e2948e04f
 #EXTINF:0,Canal N
-http://46.28.53.160:8088/live/canaleno2/playlist.m3u8?id=67234&pk=6e62b1a064abe311e009ba01e7d813890baf0cc41b2f0d8af5a9d0954f46366e
+http://46.28.53.160:8088/live/canaleno2/playlist.m3u8?id=67234&wowzasessionid=053335367&pk=228d7081917c4e3b680d98aef46de642ac00ef36742506877d64937e2948e04f
 #EXTINF:0,Canal Capital
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 #EXTINF:0,Canal RED
 http://178.162.202.2:8088/live/fulltv4000/playlist.m3u8?id=253342&pk=6e62b1a064abe311e009ba01e7d813890baf0cc41b2f0d8af5a9d0954f46366e
 #EXTINF:0,Goltv
-http://5.63.151.68:8088/live/fulltv50000/playlist.m3u8?id=256189&pk=6e62b1a064abe311e009ba01e7d813890baf0cc41b2f0d8af5a9d0954f46366e
-#EXTINF:0,Canal Pendejo
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+http://109.123.116.138:8088/zenex/golp0911/playlist.m3u8?id=23669&pk=228d7081917c4e3b680d98aef46de642ac00ef36742506877d64937e2948e04f
 #EXTINF:0,Rpp
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPTV/_definst_/live/stream1.m3u8
 #EXTINF:0,Panamerica 
-http://stream-11.vty.dailymotion.com/13/dm/1/x18w5up/live.isml/events(live-1483135140)/live-audio=128000-video=1200000.m3u8
+http://stream-07.vty.dailymotion.com/37/dm/1/x18w5up/live_src.isml/live_src.m3u8?e=1483836739&st=woPpSQXHG3cXJaAfTJnzTw#cell=lvty
 #EXTINF:0,willax
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 #EXTINF:0,Rusia TOday
