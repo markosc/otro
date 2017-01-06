@@ -12,7 +12,7 @@ http://178.162.202.2:8088/live/fulltv4000/playlist.m3u8?id=253342&pk=6e62b1a064a
 #EXTINF:0,Goltv
 http://109.123.116.138:8088/zenex/golp0911/playlist.m3u8?id=23669&pk=228d7081917c4e3b680d98aef46de642ac00ef36742506877d64937e2948e04f
 #EXTINF:0,Rpp
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPTV/_definst_/live/stream1.m3u8
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
 #EXTINF:0,Panamerica 
 http://stream-07.vty.dailymotion.com/37/dm/1/x18w5up/live_src.isml/live_src.m3u8?e=1483836739&st=woPpSQXHG3cXJaAfTJnzTw#cell=lvty
 #EXTINF:0,willax
