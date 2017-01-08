@@ -17,7 +17,7 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 http://stream-07.vty.dailymotion.com/37/dm/1/x18w5up/live_src.isml/live_src.m3u8?e=1483836739&st=woPpSQXHG3cXJaAfTJnzTw#cell=lvty
 #EXTINF:0,willax
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
-#EXTINF:0,Rusia TOday
-http://edge-1130-us-la.filmon.com/live/299.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1b40bf3177534c4713a7ee073766c7af714920cd19ca48411da98f9f298d83739dc506b9eca0e35e2de43751e02c4184a3fc2f7d782a30445ad1a77a025eee6d309cdfb2ff8eb172022c03dbfddb057814a69c243897c9241d2a87491dcf93393a0fd24467b986e32ec5058b8586d86a1ae6c26445f2169e393064352e45c92687761c2630b83acffac32cee8c603e9de746e070c76860116c116817f0cee9fe
-#EXTINF:0,Telenovelas
-http://edge-823-ch-gv.filmon.com/live/2624.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8b3a14ecd0dec87ce4d694302c46d0616346d25f9080a50a59d6d0187ae3ccb3b15367581cf88f3b5a7d0c2a5829cdeacfa64b7ec02c066d409ed304c6ad4f66bc233efc91212cd88422f95240d6f7da97402f07bfe2e4bc4d196198419ba758c182812d028f2f1c792eef5fd8cecf06bb7830dc46fa2cdbf8cec4038a175e988517d1512df47ee65cf51d4ec9bb572b52b9cdc3ac965cc8c99ac6660d631ada
+#EXTINF:0,EXABYTE AMERICA
+http://www.exabytetv.info/AMERICA.m3u
+#EXTINF:0,USA
+http://www.exabytetv.info/USA.m3u
